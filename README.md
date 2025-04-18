@@ -81,7 +81,7 @@ This class contains methods that perform the actual calculations for each operat
 
 ---
 
-### 3. **CalculatorApp.java**
+### 3. **Main.java**
 This is the main class that runs the calculator application. It interacts with the user, invokes the appropriate methods from the `UserInput` and `Calculator` classes, and displays the result.
 
 #### Main Logic:
